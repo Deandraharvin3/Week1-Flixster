@@ -1,5 +1,5 @@
 # Week1-Flixster
-# Project 2 - *Name of App Here*
+# Project 2 - *Flixster*
 
 **Name of your app** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/32419895/60303626-c1f05380-98eb-11e9-945a-a5de37725633.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/32419895/60377036-f5a0ab80-99c7-11e9-9f61-338349c7af80.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
